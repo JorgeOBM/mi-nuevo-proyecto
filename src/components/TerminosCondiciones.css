@@ -1,0 +1,20 @@
+.terminos-condiciones-section {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.terminos-condiciones-section h1 {
+  text-align: center;
+  font-size: 2em;
+  margin-bottom: 20px;
+}
+
+.pdf-viewer {
+  margin-top: 20px;
+  height: 600px;
+  border: 1px solid #ccc;
+  overflow: hidden;
+}

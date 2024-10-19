@@ -1,0 +1,19 @@
+.clases-section {
+    padding: 20px;
+  }
+  
+  .clases-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .clases-table th,
+  .clases-table td {
+    padding: 10px;
+    border: 1px solid #ccc;
+  }
+  
+  .clases-table th {
+    background-color: #f8f9fa;
+  }
+  
